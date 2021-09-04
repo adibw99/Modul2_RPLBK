@@ -18,7 +18,7 @@ ReactDOM.render(
   <React.StrictMode>
     <App />
     <CardList name="Muhammad Adib Bowo L" nim="21120118120036" kelompok="14" i sNameBold image={Gambar} />
-    <Quotes author="Orang" quotes={quotes} />
+    <Quotes author="Adib" quotes={quotes} />
   </React.StrictMode>,
   document.getElementById('root')
 );
